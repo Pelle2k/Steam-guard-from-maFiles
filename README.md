@@ -1,7 +1,7 @@
 This script will display information about the account:
 ```
 Username: username
-SteamId: 76561199000000000
+SteamId: 76561199000000001
 GuardCode: BJ8XG
 ```
 
